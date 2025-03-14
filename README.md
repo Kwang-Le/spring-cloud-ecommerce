@@ -1,4 +1,4 @@
-# Project Name
+# Spring Cloud Ecommerce
 
 
 
